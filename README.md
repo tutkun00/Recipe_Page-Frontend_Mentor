@@ -2,4 +2,4 @@
 
 ## A basic Recipe Page
 
-Link is here -> [Go!](https://www.frontendmentor.io/home)
+Link is here -> [Go!](https://www.frontendmentor.io)
